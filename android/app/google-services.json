@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368759741433",
+    "project_id": "ml-store-dbad5",
+    "storage_bucket": "ml-store-dbad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368759741433:android:fc4609876947010c4abb28",
+        "android_client_info": {
+          "package_name": "com.example.l_m_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAImI7iNO9tzEa0APtMiQ6vmrXeeSJFy6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
